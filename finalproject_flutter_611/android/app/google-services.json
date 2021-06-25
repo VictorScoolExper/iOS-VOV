@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "291554960058",
+    "project_id": "los-relieros-611-flutter",
+    "storage_bucket": "los-relieros-611-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291554960058:android:a5e78e1db59c828d70d883",
+        "android_client_info": {
+          "package_name": "com.example.finalproject_flutter_611"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291554960058-ublbpqb744kbovpdndmq36rqupomjbvp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQLquzoqAamVEeLHmWuYyznER6R_kxXg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291554960058-ublbpqb744kbovpdndmq36rqupomjbvp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "291554960058-fkbdn6tiegk6mbvbqn97ub4hbd831bnr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.finalprojectFlutter611"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
